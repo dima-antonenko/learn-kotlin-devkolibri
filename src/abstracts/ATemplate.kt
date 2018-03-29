@@ -1,8 +1,9 @@
 package abstracts
 
-class ATemplate : BaseTemplate()
+class ATemplate : BaseTemplate() {
 
     override fun minus() {
-        self.count --
+
     }
+
 }
